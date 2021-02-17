@@ -11,13 +11,13 @@ do not meet the requirements, an error message will be inserted next to that fie
 found, a Toast message is displayed to the user that says "Welcome <<name>>". 
 
 Main page of app:
-![Home](screenshots/home.png)
+![Home](screenshots/home.png =108x222)
 
 Error message displayed when required fields are not filled out:
-![Error message 1](screenshots/error1.png)
+![Error message 1](screenshots/error1.png =108x222)
 
 Error message displayed when passwords do not match:
-![Error message 2](screenshots/error2.png)
+![Error message 2](screenshots/error2.png =108x222)
 
-Sucess!
-![Success](screenshots/success.png)
+Success!
+![Success](screenshots/success.png =108x222)

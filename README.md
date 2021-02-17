@@ -9,3 +9,15 @@ match. Below the TextEdits, there is a submission button. When the button is cli
 fields are retrieved from the page. These fields are then stored and error checked. If any fields 
 do not meet the requirements, an error message will be inserted next to that field. If no errors are
 found, a Toast message is displayed to the user that says "Welcome <<name>>". 
+
+Main page of app:
+![Home](screenshots/home.png)
+
+Error message displayed when required fields are not filled out:
+![Error message 1](screenshots/error1.png)
+
+Error message displayed when passwords do not match:
+![Error message 2](screenshots/error2.png)
+
+Sucess!
+![Success](screenshots/success.png)
